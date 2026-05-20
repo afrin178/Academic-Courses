@@ -1,2 +1,2 @@
 # Academic-Courses
-Comprehensive portfolio for graduate-level scientific involvement
+A Comprehensive portfolio of my scientific involvement
